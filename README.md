@@ -13,51 +13,6 @@
 </br>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Morick66&theme=github-compact&hide_border=true&area=true" />
 </br>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 28.1 kB Used in GitHub's Storage 
- > 
-> 🏆 163 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Morick66/Morick66/main/assets/bar_graph.png)
-
-
- Last Updated on 29/07/2024 13:12:33 UTC
-<!--END_SECTION:waka-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Morick66&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morick66&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
