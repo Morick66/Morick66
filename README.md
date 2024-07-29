@@ -16,8 +16,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 28.1 kB Used in GitHub's Storage 
@@ -30,32 +28,9 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-🌆 Daytime                82 commits          ████████████░░░░░░░░░░░░░   46.59 % 
-🌃 Evening                68 commits          ██████████░░░░░░░░░░░░░░░   38.64 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   35 commits          █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-Tuesday                  23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Wednesday                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Thursday                 17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Friday                   33 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Saturday                 38 commits          █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -63,9 +38,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -85,7 +57,7 @@ Python                   1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Morick66/Morick66/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2024 12:59:55 UTC
+ Last Updated on 29/07/2024 13:12:33 UTC
 <!--END_SECTION:waka-->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morick66&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
