@@ -8,9 +8,9 @@
 <p align="center">
 <img align="center" src="https://skillicons.dev/icons?i=html,css,js,py,markdown,obsidian,vscode,git,github,docker&theme=light" />
 </p>
-<p align="center" style="display: grid; grid-template-columns: repeat(2, 1fr);">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Morick66&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<img align="center" src="https://streak-stats.demolab.com?user=Morick66&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Morick66&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Morick66&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Morick66&theme=github-compact&hide_border=true&area=true" />
 <p align="center" style="display: flex; justify-content: center;">
